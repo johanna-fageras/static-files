@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Thin.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Thin.woff) format(woff),
+    url(../fonts/gatch/Gatch-Thin.ttf) format(truetype);
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-ExtraLight.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-ExtraLight.woff) format(woff),
+    url(../fonts/gatch/Gatch-ExtraLight.ttf) format(truetype);
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Light.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Light.woff) format(woff),
+    url(../fonts/gatch/Gatch-Light.ttf) format(truetype);
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Regular.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Regular.woff) format(woff),
+    url(../fonts/gatch/Gatch-Regular.ttf) format(truetype);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Medium.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Medium.woff) format(woff),
+    url(../fonts/gatch/Gatch-Medium.ttf) format(truetype);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-SemiBold.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-SemiBold.woff) format(woff),
+    url(../fonts/gatch/Gatch-SemiBold.ttf) format(truetype);
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Bold.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Bold.woff) format(woff),
+    url(../fonts/gatch/Gatch-Bold.ttf) format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-ExtraBold.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-ExtraBold.woff) format(woff),
+    url(../fonts/gatch/Gatch-ExtraBold.ttf) format(truetype);
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gatch";
+  src: url(../fonts/gatch/Gatch-Black.woff2) format(woff2),
+    url(../fonts/gatch/Gatch-Black.woff) format(woff),
+    url(../fonts/gatch/Gatch-Black.ttf) format(truetype);
+  font-weight: 900;
+  font-style: normal;
+}

@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-Light.woff2") format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-Light.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-Regular.woff2")
+      format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-Regular.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-Medium.woff2") format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-Medium.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-SemiBold.woff2")
+      format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-SemiBold.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-Bold.woff2") format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-Bold.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Copernicus New";
+  src: url("../fonts/copernicus-new/CopernicusNew-Black.woff2") format("woff2"),
+    url("../fonts/copernicus-new/CopernicusNew-Black.woff") format("woff"),
+    url("../fonts/copernicus-new/CopernicusNew-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
