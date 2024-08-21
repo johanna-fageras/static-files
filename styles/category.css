@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-Regular.woff2) format(woff2),
+    url(../fonts/category/Category-Regular.woff) format(woff),
+    url(../fonts/category/Category-Regular.ttf) format(truetype);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-Italic.woff2) format(woff2),
+    url(../fonts/category/Category-Italic.woff) format(woff),
+    url(../fonts/category/Category-Italic.ttf) format(truetype);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-Medium.woff2) format(woff2),
+    url(../fonts/category/Category-Medium.woff) format(woff),
+    url(../fonts/category/Category-Medium.ttf) format(truetype);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-MediumItalic.woff2) format(woff2),
+    url(../fonts/category/Category-MediumItalic.woff) format(woff),
+    url(../fonts/category/Category-MediumItalic.ttf) format(truetype);
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-Bold.woff2) format(woff2),
+    url(../fonts/category/Category-Bold.woff) format(woff),
+    url(../fonts/category/Category-Bold.ttf) format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-BoldItalic.woff2) format(woff2),
+    url(../fonts/category/Category-BoldItalic.woff) format(woff),
+    url(../fonts/category/Category-BoldItalic.ttf) format(truetype);
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-Black.woff2) format(woff2),
+    url(../fonts/category/Category-Black.woff) format(woff),
+    url(../fonts/category/Category-Black.ttf) format(truetype);
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url(../fonts/category/Category-BlackItalic.woff2) format(woff2),
+    url(../fonts/category/Category-BlackItalic.woff) format(woff),
+    url(../fonts/category/Category-BlackItalic.ttf) format(truetype);
+  font-weight: 900;
+  font-style: italic;
+}
