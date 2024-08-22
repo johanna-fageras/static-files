@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Thin.woff2) format(woff2),
+    url(../fonts/netto/Netto-Thin.woff) format(woff),
+    url(../fonts/netto/Netto-Thin.ttf) format(truetype);
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-ThinItalic.woff2) format(woff2),
+    url(../fonts/netto/Netto-ThinItalic.woff) format(woff),
+    url(../fonts/netto/Netto-ThinItalic.ttf) format(truetype);
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Light.woff2) format(woff2),
+    url(../fonts/netto/Netto-Light.woff) format(woff),
+    url(../fonts/netto/Netto-Light.ttf) format(truetype);
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-LightItalic.woff2) format(woff2),
+    url(../fonts/netto/Netto-LightItalic.woff) format(woff),
+    url(../fonts/netto/Netto-LightItalic.ttf) format(truetype);
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Regular.woff2) format(woff2),
+    url(../fonts/netto/Netto-Regular.woff) format(woff),
+    url(../fonts/netto/Netto-Regular.ttf) format(truetype);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Italic.woff2) format(woff2),
+    url(../fonts/netto/Netto-Italic.woff) format(woff),
+    url(../fonts/netto/Netto-Italic.ttf) format(truetype);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Bold.woff2) format(woff2),
+    url(../fonts/netto/Netto-Bold.woff) format(woff),
+    url(../fonts/netto/Netto-Bold.ttf) format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-BoldItalic.woff2) format(woff2),
+    url(../fonts/netto/Netto-BoldItalic.woff) format(woff),
+    url(../fonts/netto/Netto-BoldItalic.ttf) format(truetype);
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-Black.woff2) format(woff2),
+    url(../fonts/netto/Netto-Black.woff) format(woff),
+    url(../fonts/netto/Netto-Black.ttf) format(truetype);
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Netto";
+  src: url(../fonts/netto/Netto-BlackItalic.woff2) format(woff2),
+    url(../fonts/netto/Netto-BlackItalic.woff) format(woff),
+    url(../fonts/netto/Netto-BlackItalic.ttf) format(truetype);
+  font-weight: 900;
+  font-style: italic;
+}
