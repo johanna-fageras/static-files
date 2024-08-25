@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Thin.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Thin.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-ThinItalic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-ThinItalic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Light.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Light.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-LightItalic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-LightItalic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Regular.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Regular.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Italic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Italic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Medium.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Medium.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-MediumItalic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-MediumItalic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Bold.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Bold.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-BoldItalic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-BoldItalic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-Black.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-Black.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LL Brown";
+  src: url("../fonts/ll-brown/LLBrown-BlackItalic.woff2") format("woff2"),
+    url("../fonts/ll-brown/LLBrown-BlackItalic.woff") format("woff"),
+    url("../fonts/ll-brown/LLBrown-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

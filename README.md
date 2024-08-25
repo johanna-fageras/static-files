@@ -19,3 +19,4 @@ https://cdn.jsdelivr.net/gh/johanna-fageras/static-files/styles/{font-name}.css
 - [Copernicus New](https://github.com/johanna-fageras/static-files/blob/main/styles/copernicus-new.css)
 - [Gatch](https://github.com/johanna-fageras/static-files/blob/main/styles/gatch.css)
 - [Netto](https://github.com/johanna-fageras/static-files/blob/main/styles/netto.css)
+- [LL Brown](https://github.com/johanna-fageras/static-files/blob/main/styles/ll-brown.css)
