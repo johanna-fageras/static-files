@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Thin.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Thin.woff") format("woff"),
+    url("../fonts/cera/Cera-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-ThinItalic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-ThinItalic.woff") format("woff"),
+    url("../fonts/cera/Cera-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Light.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Light.woff") format("woff"),
+    url("../fonts/cera/Cera-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-LightItalic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-LightItalic.woff") format("woff"),
+    url("../fonts/cera/Cera-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Regular.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Regular.woff") format("woff"),
+    url("../fonts/cera/Cera-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Italic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Italic.woff") format("woff"),
+    url("../fonts/cera/Cera-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Medium.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Medium.woff") format("woff"),
+    url("../fonts/cera/Cera-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-MediumItalic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-MediumItalic.woff") format("woff"),
+    url("../fonts/cera/Cera-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Bold.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Bold.woff") format("woff"),
+    url("../fonts/cera/Cera-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-BoldItalic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-BoldItalic.woff") format("woff"),
+    url("../fonts/cera/Cera-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-Black.woff2") format("woff2"),
+    url("../fonts/cera/Cera-Black.woff") format("woff"),
+    url("../fonts/cera/Cera-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera";
+  src: url("../fonts/cera/Cera-BlackItalic.woff2") format("woff2"),
+    url("../fonts/cera/Cera-BlackItalic.woff") format("woff"),
+    url("../fonts/cera/Cera-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

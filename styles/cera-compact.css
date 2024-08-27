@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Thin.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Thin.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-ThinItalic.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-ThinItalic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Light.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Light.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-LightItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-LightItalic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Regular.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Regular.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Italic.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Italic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Medium.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Medium.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-MediumItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-MediumItalic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Bold.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Bold.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-BoldItalic.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-BoldItalic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-Black.woff2") format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-Black.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Compact";
+  src: url("../fonts/cera-compact/CeraCompact-BlackItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-compact/CeraCompact-BlackItalic.woff") format("woff"),
+    url("../fonts/cera-compact/CeraCompact-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

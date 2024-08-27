@@ -20,3 +20,8 @@ https://cdn.jsdelivr.net/gh/johanna-fageras/static-files/styles/{font-name}.css
 - [Gatch](https://github.com/johanna-fageras/static-files/blob/main/styles/gatch.css)
 - [Netto](https://github.com/johanna-fageras/static-files/blob/main/styles/netto.css)
 - [LL Brown](https://github.com/johanna-fageras/static-files/blob/main/styles/ll-brown.css)
+- [Cera](https://github.com/johanna-fageras/static-files/blob/main/styles/cera.css)
+- [Cera Compact](https://github.com/johanna-fageras/static-files/blob/main/styles/cera-compact.css)
+- [Cera Condensed](https://github.com/johanna-fageras/static-files/blob/main/styles/cera-condensed.css)
+- [Cera Round](https://github.com/johanna-fageras/static-files/blob/main/styles/cera-round.css)
+- [Cera Mono](https://github.com/johanna-fageras/static-files/blob/main/styles/cera-mono.css)

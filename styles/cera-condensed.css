@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Thin.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Thin.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-ThinItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-ThinItalic.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-ThinItalic.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Light.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Light.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-LightItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-LightItalic.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Regular.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Regular.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Italic.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Italic.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Medium.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Medium.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-MediumItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-MediumItalic.woff")
+      format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-MediumItalic.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Bold.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Bold.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-BoldItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-BoldItalic.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-Black.woff2") format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-Black.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("../fonts/cera-condensed/CeraCondensed-BlackItalic.woff2")
+      format("woff2"),
+    url("../fonts/cera-condensed/CeraCondensed-BlackItalic.woff") format("woff"),
+    url("../fonts/cera-condensed/CeraCondensed-BlackItalic.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
